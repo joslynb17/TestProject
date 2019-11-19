@@ -13,5 +13,10 @@ namespace TestProject.Controllers
         {
             return View();
         }
+
+        public ActionResult Howdy()
+        {
+            return View();
+        }
     }
 }
